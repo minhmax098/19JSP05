@@ -8,12 +8,19 @@ public class Employee {
 	public boolean married;
 	Job job;
 	
-	public Employee( int id,String name, double salary, Job job)
+	public Employee()
 	{
 		this.name= name;
 		this.id = id;
 		this.salary = salary;
 		this.job = job;
+	}
+
+	public void Create() {
+		
+	}
+	public void Show() {
+		
 	}
 	
 
