@@ -1,0 +1,25 @@
+.register{
+    background-color: olive;
+    color: white;
+    padding: 4px 100px 4px 100px;
+}
+.loginbtn{
+    background-color: olive;
+    color: white;
+    padding: 3px 150px 3px 150px;
+    margin-top: 20px;
+}
+.img{
+    margin-left: 50px;
+}
+.rgs{
+    margin-left: 50px;
+    margin-top: 0px;
+}
+.login{
+    margin: 0px 20px 0px 20px;
+}
+.table{
+    padding: 0px;
+    border: 0px;
+}
